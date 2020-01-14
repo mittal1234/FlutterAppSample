@@ -5,6 +5,7 @@ void main(){
   runApp(MaterialApp(
     title: "Exploring Ui Widgets",
     home: Home(),
+    debugShowCheckedModeBanner: false,
   ));
 
 }
