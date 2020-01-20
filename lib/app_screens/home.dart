@@ -67,8 +67,8 @@ class Home extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[Text('floatbutton',
-            style: TextStyle(fontSize: 7.0),
-              textAlign: TextAlign.center),
+                style: TextStyle(fontSize: 7.0),
+                textAlign: TextAlign.center),
               SizedBox(height: 10.0,)
             ],
           ),
